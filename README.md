@@ -1,18 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Syed Moktacim Billah</h1>
-<h3 align="center">A passionate Communications and Electronic Engineer who is specialized in the field of embedded system and circuit design.</h3>
+<h3 align="center">A passionate Communications and Electronic Engineer who is specialized in the field of "Embedded System and Circuit Design".</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2ImHK_JZ-K6oKslIcGan9S&ust=1686058947056000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjN6pahrP8CFQAAAAAdAAAAABA1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moktacim&label=Profile%20views&color=0e75b6&style=flat" alt="moktacim" /> </p>
 
-- 🔭 I’m currently working on **Device Software Lab at Huawei Munich Research Center**
+- 🔭 I’m currently working at **Device Software Lab at Huawei Munich Research Center**
 
-- 🌱 I’m currently learning **SQL and Automation Security**
+- 🌱 I’m currently learning **SQL, Advanced Python and Automation Security**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@syedsinfotech3404](https://www.youtube.com/@syedsinfotech3404)
 
-- 💬 Ask me about **Embedded domain and circuit design**
+- 💬 Ask me about **Embedded Domain and Circuit Design**
 
 - 📫 How to reach me **syedsakibgp@gmail.com**
 
